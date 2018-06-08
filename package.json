@@ -9,8 +9,10 @@
   "author": "Rohan",
   "license": "ISC",
   "dependencies": {
+    "bitcoin-transaction": "^1.1.0",
     "bitcore-lib": "^0.15.0",
     "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
     "request": "^2.87.0"
   }
